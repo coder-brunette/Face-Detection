@@ -2,7 +2,4 @@
 
 Output is the image
 
-
-
 ### ![GitHub Logo](output.png)
-
