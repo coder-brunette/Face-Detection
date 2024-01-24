@@ -1,5 +1,5 @@
 # Face-Detection
 
-Output is the image
+Output is as below - 
 
 ### ![GitHub Logo](output.png)
